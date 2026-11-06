@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# NEEDS APPROVAL: confirm the production domain before launch.
+Sitemap: https://sapranosound.com/sitemap.xml
